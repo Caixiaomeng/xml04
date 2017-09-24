@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE Library SYSTEM "Library.dtd">
+<Library>
+<Book BookId="a11501">
+<Title>中外文化精神十讲</Title>
+<Author>李家宝</Author>
+<Price>29 RMB</Price>
+<Publisher>高等教育出版社</Publisher>
+</Book>
+<Member>
+<Name>
+<FirstName>Simon</FirstName>
+<MiddleName>David</MiddleName>
+<LastName>Taylor</LastName>
+</Name>
+<Address>
+<HouseNumber>118号</HouseNumber>
+<Street>烟集街</Street>
+<City>湖北宜昌</City>
+</Address>
+</Member>
+</Library>
